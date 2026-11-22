@@ -1,4 +1,4 @@
-## Olá, eu sou o Antonio Carlos [Sobrenome] 👋
+## Olá, eu sou o Antonio Carlos Barros 👋
 
 Estudante de **Ciência da Computação** (Estácio, previsão dez/2028) em busca de **estágio ou vaga júnior** em desenvolvimento backend ou full stack com Java.
 
